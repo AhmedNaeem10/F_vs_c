@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "f_vs_c",
+    "slug": "f_vs_c",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "f_vs_c"
+}
